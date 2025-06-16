@@ -1,5 +1,5 @@
 //Alunos:
-// Raimundo Ferreira do Nasscimento Junior
+// Raimundo Ferreira do Nascimento Junior
 // Carlos Eduardo Batista Diniz
 // --- Inclusão de Bibliotecas e Módulos ---
 // Inclui a biblioteca GLUT, essencial para criar janelas e gerenciar eventos.
